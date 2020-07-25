@@ -1,0 +1,417 @@
+body{
+  margin: 0;
+
+  font-family: 'Marck Script', cursive;
+
+}
+
+p {
+  font-family: 'Caveat', cursive;
+}
+
+div{
+  text-align: center;
+
+}
+div p{
+  margin: 0;
+}
+h1,h2 {
+  font-family: 'Caveat', cursive;
+  margin:0;
+}
+
+.batch{
+  width: 100px;
+  border-radius: 100%;
+  position: fixed;
+  top: 10px;
+  left: 15px;
+  z-index: 100;
+}
+
+.club-logo{
+  width: 150px;
+  border-radius: 15px;
+  position: fixed;
+  top: 12px;
+  right: 20px;
+  z-index: 100;
+}
+
+.bg{
+width:100%;
+position: absolute;
+top: 0;
+z-index: -1;
+}
+.heart{
+  border-radius: 70%;
+}
+
+/* divisons */
+
+.Sanskriti{
+  font-size: 1.3rem;
+  width: 270px;
+  position: absolute;
+  top: 70px;
+  left: 35%;
+  transform: rotate(-5.5deg);
+}
+
+.Sanskriti:hover{
+  transform: scale(1.1);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.Rishank{
+  font-size: .87rem;
+  width: 250px;
+  text-align: justify;
+  position: absolute;
+  top: 150px;
+  left: 44px;
+  transform: rotate(3.5deg);
+}
+
+.Rishank P{
+  text-align: right;
+  margin: 10px;
+}
+
+.Rishank:hover {
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.Neil{
+  width: 200px;
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  transform: rotate(3.5deg);
+}
+
+.Neil:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color:yellow;
+}
+
+.Sunil{
+  font-size: 0.85rem;
+  width: 240px;
+  text-align: justify;
+  position: absolute;
+  top: 218px;
+  right: 26%;
+  transform: rotate(1deg);
+}
+
+.Sunil:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.Shikhar{
+  font-size: 0.75rem;
+  width: 210px;
+  text-align: justify;
+  position: absolute;
+  top: 87%;
+  right: 23%;
+  transform: rotate(1deg);
+}
+
+.Shikhar:hover{
+  transform: scale(1.4);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Abhishek-1{
+  font-size: 1rem;
+  width: 220px;
+  text-align: justify;
+  position: absolute;
+  top: 101%;
+  left: 24.5%;
+  transform: rotate(-5deg);
+}
+
+.Abhishek-1:hover{
+  transform: scale(1.4);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Abhishek-1 p{
+  text-align: right;
+}
+.Abhishek-2{
+  font-size: 0.9rem;
+  width: 180px;
+  text-align: justify;
+  position: absolute;
+  top: 91.5%;
+  right: 41%;
+  transform: rotate(-5deg);
+}
+
+.Abhishek-2:hover{
+  transform: scale(1.4);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+  /* Anshu */
+.Anshu-shubham{
+  font-size: .95rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  top: 350px;
+  left: 32.5%;
+  transform: rotate(3.9deg);
+}
+
+.Anshu-shubham:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Anshu-shubham P{
+  text-align: right;
+}
+.Anshu-varsha{
+  font-size: .85rem;
+  width: 210px;
+  text-align: justify;
+  position: absolute;
+  top: 15px;
+  left: 280px;
+  transform: rotate(3.9deg);
+}
+.Anshu-varsha:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.Anshu-Ujjwal{
+  font-size: .85rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  top: 250px;
+  right: 55px;
+  transform: rotate(-6.5deg);
+}
+
+.Anshu-Ujjwal:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Anshu-Ujjwal P{
+  text-align: right;
+}
+/* Nikhil */
+.Nikhil-Ujjwal{
+  font-size: .9rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  bottom:17.5%;
+  right: 12%;
+  transform: rotate(3.9deg);
+}
+.Nikhil-Ujjwal:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Nikhil-varsha{
+  font-size: .9rem;
+  width: 230px;
+  text-align: justify;
+  position: absolute;
+  top:86%;
+  right: 45px;
+  transform: rotate(3.9deg);
+}
+
+.Nikhil-varsha:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Nikhil-varsha P{
+  text-align: right;
+
+}
+.Nikhil-shubham{
+  font-size: .9rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  top:100%;
+  left: 30px;
+  transform: rotate(-3.9deg);
+}
+.Nikhil-shubham:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.Anmol-varsha{
+  font-size: .9rem;
+  width: 120px;
+  text-align: justify;
+  position: absolute;
+  top: 430px;
+  left: 20px;
+  transform: rotate(3.9deg);
+}
+.Anmol-varsha:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Anmol-ujjwal{
+  font-size: .9rem;
+  width: 200px;
+  text-align: justify;
+  position: absolute;
+  top:60%;
+  right:32.5%;
+  transform: rotate(-6.5deg);
+}
+.Anmol-ujjwal:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.Anmol-shubham{
+  font-size: .90rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  bottom: 0;
+  left: 352px;
+  transform: rotate(-3.5deg);
+}
+.Anmol-shubham:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Anmol-shubham P{
+  text-align: right;
+}
+
+.Ayush-ujjwal{
+  font-size: .90rem;
+  width: 140px;
+  text-align: justify;
+  position: absolute;
+  top: 59%;
+  right: 3px;
+  transform: rotate(-2.5deg);
+}
+.Ayush-ujjwal:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Ayush-Varsha{
+  font-size: .90rem;
+  width: 140px;
+  text-align: justify;
+  position: absolute;
+  top: 2px;
+  right:35%;
+  transform: rotate(-2.5deg);
+}
+.Ayush-Varsha:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Neeraz-ujjwal{
+  font-size: .90rem;
+  width: 265px;
+  text-align: justify;
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  transform: rotate(3.5deg);
+}
+.Neeraz-ujjwal:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Neeraz-varsha{
+  font-size: .90rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  top: 18px;
+  right:14%;
+  transform: rotate(-2.5deg);
+}
+.Neeraz-varsha:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Neeraz-varsha P{
+  text-align: right;
+}
+.Neeraz-shubham{
+  font-size: .90rem;
+  width: 260px;
+  text-align: justify;
+  position: absolute;
+  top: 46.5%;
+  left: 170px;
+  transform: rotate(-2.5deg);
+}
+.Neeraz-shubham:hover{
+  transform: scale(1.2);
+  padding: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+.Neeraz-shubham P{
+  text-align: right;
+}
+.love{
+  position:absolute;
+  left: 45%;
+  top: 70%;
+}
